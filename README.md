@@ -1,6 +1,6 @@
 # Viva-Vista-Hackathon-Project
 
-https://github.com/user-attachments/assets/4ef5e024-403e-4ce4-b553-c2f76a1ab846
+https://github.com/user-attachments/assets/4a802476-324c-42ee-a83d-1be63f9f96b7
 
 ![Ekran görüntüsü 2024-07-28 210502](https://github.com/user-attachments/assets/f0e7dc6a-3864-49f0-b54d-c7c8fdf42142)
 ![Ekran görüntüsü 2024-07-28 210154](https://github.com/user-attachments/assets/5b54ed3e-36dd-45a7-910b-b10594826fd4)
